@@ -1,4 +1,2 @@
-# personal_portfolio
-This repo is a portfolio website of Oli Ahad Choyon
-![image](https://github.com/user-attachments/assets/9284e1e4-b12c-45d0-b58d-9b270817c049)
-
+# This is a portfolio website of oli-ahad-choyon.
+![image](https://github.com/user-attachments/assets/655c2999-93a4-4482-b7b1-a847ba9d8dc3)
