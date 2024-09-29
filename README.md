@@ -1,2 +1,2 @@
 # This is a portfolio website of oli-ahad-choyon.
-![image](https://github.com/user-attachments/assets/655c2999-93a4-4482-b7b1-a847ba9d8dc3)
+![Screenshot 2024-09-28 234743](https://github.com/user-attachments/assets/75f775ec-4da7-4470-b8bf-324e1bdfd5f2)
